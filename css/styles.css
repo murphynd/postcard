@@ -1,3 +1,18 @@
 #letter{
   display: none;
+  padding-top: 100px;
+}
+.postcard {
+  position: relative;
+  width: 740px;
+  height: 498px;
+  margin: 0 auto;
+  background: url('https://developer.mozilla.org/files/4151/background.jpg'); /*img from: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Styling_HTML_forms */
+  font-family: "MedievalSharp";
+  border: 2px solid #ccc;
+  box-shadow: 7px 7px 20px #555;
+}
+.p{
+  font-family: "Homemade Apple",
+  cursive;
 }
